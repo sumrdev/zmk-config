@@ -1,0 +1,10 @@
+file_format: "1"
+id: chipper
+name: Chipper
+type: shield
+url: https://github.com/
+requires:
+  - seeeduino_xiao_ble
+features:
+  - keys
+  - studio
