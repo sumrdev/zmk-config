@@ -1,0 +1,52 @@
+# Build outputs
+build/
+**/build/
+
+# Zephyr caches
+.cache/
+.zephyr/
+
+# Python
+__pycache__/
+*.pyc
+
+# direnv
+.envrc
+.direnv/
+
+# Nix
+result
+result-*
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build outputs
+build/
+zmk/build/
+
+# direnv
+.direnv/
+
+# Nix build symlinks
+result
+result-*
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
